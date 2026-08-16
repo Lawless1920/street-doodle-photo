@@ -1,0 +1,4 @@
+interface:
+  display_name: "Street Doodle Photo"
+  short_description: "Source-aware photo graffiti in two selectable modes"
+  default_prompt: "Use $street-doodle-photo on this photo, inspect the scene, recommend Dark Narrative or Bold Color, and wait for my choice before generating."

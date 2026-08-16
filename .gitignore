@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*.tmp
+*.swp
+
+# Private generation history and rejected drafts
+showcase/edits/
+showcase/final/
+showcase/rejected/
+showcase/v1/
